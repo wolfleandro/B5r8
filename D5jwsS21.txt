@@ -1,0 +1,883 @@
+#EXTM3U
+#EXTINF:-1,SPORTV 2 HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11569
+#EXTINF:-1,SPORTV 2 SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11568
+#EXTINF:-1,SPORTV 3 HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11567
+#EXTINF:-1,SPORTV 3 SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11566
+#EXTINF:-1,SPORTV FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11565
+#EXTINF:-1,SPORTV HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11564
+#EXTINF:-1,SPORTV SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11563
+#EXTINF:-1,STUDIO UNIVERSAL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11562
+#EXTINF:-1,ABC NEWS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11114
+#EXTINF:-1,AXN HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11122
+#EXTINF:-1,BAND HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11111
+#EXTINF:-1,BAND HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11185
+#EXTINF:-1,Band News HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11121
+#EXTINF:-1,Band Sports FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11181
+#EXTINF:-1,BAND SPORTS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11136
+#EXTINF:-1,CANAL BRASIL²
+http://srv01.iptvquantum.co:80/murilo/murilo/11098
+#EXTINF:-1,CARTOON NETWORK HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11179
+#EXTINF:-1,COMBATE FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11135
+#EXTINF:-1,COMEDY CENTRAL FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11134
+#EXTINF:-1,COMEDY FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11110
+#EXTINF:-1,DISCOVERY TURBO FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11180
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11138
+#EXTINF:-1,ESPN  HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11178
+#EXTINF:-1,ESPN EXTRA FHD 2
+http://srv01.iptvquantum.co:80/murilo/murilo/11189
+#EXTINF:-1,ESPN EXTRA SD 2
+http://srv01.iptvquantum.co:80/murilo/murilo/11187
+#EXTINF:-1,Espn FHD 2
+http://srv01.iptvquantum.co:80/murilo/murilo/11182
+#EXTINF:-1,FOX HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11119
+#EXTINF:-1,FOX LIFE FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11132
+#EXTINF:-1,FOX LIVE HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11109
+#EXTINF:-1,Fox Premium 1 FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11133
+#EXTINF:-1,Fox Sports 2 FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11175
+#EXTINF:-1,Fox Sports 2 HD (2)
+http://srv01.iptvquantum.co:80/murilo/murilo/11177
+#EXTINF:-1,Fox Sports FHD (2)
+http://srv01.iptvquantum.co:80/murilo/murilo/11176
+#EXTINF:-1,Fox Sports HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11174
+#EXTINF:-1,GLOBO FHD GAZETA SUL
+http://srv01.iptvquantum.co:80/murilo/murilo/11191
+#EXTINF:-1,GLOBO FHD RJ
+http://srv01.iptvquantum.co:80/murilo/murilo/11193
+#EXTINF:-1,GLOBO FHD SP
+http://srv01.iptvquantum.co:80/murilo/murilo/11173
+#EXTINF:-1,GLOBO GAZETA SUL HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11190
+#EXTINF:-1,GLOBO HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11172
+#EXTINF:-1,GLOBO HD RJ
+http://srv01.iptvquantum.co:80/murilo/murilo/11192
+#EXTINF:-1,GLOBO NEWS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11097
+#EXTINF:-1,HBO 2 FHD.²
+http://srv01.iptvquantum.co:80/murilo/murilo/11170
+#EXTINF:-1,HBO2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11169
+#EXTINF:-1,HBO FHD.²
+http://srv01.iptvquantum.co:80/murilo/murilo/11168
+#EXTINF:-1,HBO HD.²
+http://srv01.iptvquantum.co:80/murilo/murilo/11171
+#EXTINF:-1,HBO PLUS FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11123
+#EXTINF:-1,HBO PLUS SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11108
+#EXTINF:-1,H2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11127
+#EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11118
+#EXTINF:-1,MAX FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11131
+#EXTINF:-1,MAX SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11107
+#EXTINF:-1,MAXPRIME FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11112
+#EXTINF:-1,MAXPRIME SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11106
+#EXTINF:-1,MEGAPIX FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11120
+#EXTINF:-1,MTV LIVE FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11115
+#EXTINF:-1,MTV LIVE SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11105
+#EXTINF:-1,MULTISHOW  HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11113
+#EXTINF:-1,NATGEO HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11151
+#EXTINF:-1,NATGEO KIDS FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11116
+#EXTINF:-1,NATGEOKIDS SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11104
+#EXTINF:-1,NHK WORLD HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11124
+#EXTINF:-1,Nick Jr HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11150
+#EXTINF:-1,PFC 1 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11147
+#EXTINF:-1,PFC 1 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11149
+#EXTINF:-1,PFC 2 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11146
+#EXTINF:-1,PFC 3 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11145
+#EXTINF:-1,PFC 4 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11144
+#EXTINF:-1,PFC 4 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11148
+#EXTINF:-1,PFC 2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11143
+#EXTINF:-1,PFC 3 SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11142
+#EXTINF:-1,PLAYBOY FHD.²
+http://srv01.iptvquantum.co:80/murilo/murilo/11141
+#EXTINF:-1,PLAYBOY HD.²
+http://srv01.iptvquantum.co:80/murilo/murilo/11184
+#EXTINF:-1,RECORD FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11130
+#EXTINF:-1,RECORD SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11188
+#EXTINF:-1,SBT FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11140
+#EXTINF:-1,SBT HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11139
+#EXTINF:-1,SEXY HOT FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11137
+#EXTINF:-1,SEXY HOT HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11158
+#EXTINF:-1,SPACE FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11117
+#EXTINF:-1,Sportv 2 FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11156
+#EXTINF:-1,Sportv 2 HD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11153
+#EXTINF:-1,Sportv 3 FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11155
+#EXTINF:-1,SPORTV 3 HD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11152
+#EXTINF:-1,SPORTV FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11157
+#EXTINF:-1,Sportv HD (2)
+http://srv01.iptvquantum.co:80/murilo/murilo/11154
+#EXTINF:-1,TBS FHD H265²
+http://srv01.iptvquantum.co:80/murilo/murilo/11129
+#EXTINF:-1,TBS SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11103
+#EXTINF:-1,TELECINE ACTION HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11167
+#EXTINF:-1,TELECINE ACTION HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11183
+#EXTINF:-1,TELECINE FUN FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11166
+#EXTINF:-1,TELECINE FUN HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11165
+#EXTINF:-1,TELECINE PIPOCA FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11164
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11163
+#EXTINF:-1,TELECINE PREMIUM FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11162
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11161
+#EXTINF:-1,TELECINE TOUCH FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11160
+#EXTINF:-1,TELECINE TOUCH HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11159
+#EXTINF:-1,TLC HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11099
+#EXTINF:-1,TNT SERIES FHD H265²
+http://srv01.iptvquantum.co:80/murilo/murilo/11128
+#EXTINF:-1,TNT SERIES SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11102
+#EXTINF:-1,UNIVERSAL CHANNEL HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11186
+#EXTINF:-1,VENUS FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11126
+#EXTINF:-1,VENUS SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11101
+#EXTINF:-1,WARNER CHANNEL HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11125
+#EXTINF:-1,WARNER SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11100
+#EXTINF:-1,ALLSPORTS TV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11483
+#EXTINF:-1,ARG: AMERICA TV HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11461
+#EXTINF:-1,ARG: AMERICA TV SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11460
+#EXTINF:-1,ARG: CANAL 26 HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11464
+#EXTINF:-1,ARG: CANAL 26 SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11463
+#EXTINF:-1,ARG: CANAL 5 TELESOL
+http://srv01.iptvquantum.co:80/murilo/murilo/11453
+#EXTINF:-1,ARG: CANAL 7 JUJUY
+http://srv01.iptvquantum.co:80/murilo/murilo/11447
+#EXTINF:-1,ARG: CANAL 7 MENDOZA
+http://srv01.iptvquantum.co:80/murilo/murilo/11452
+#EXTINF:-1,ARG: Canal 9 Comodoro Rivadavia
+http://srv01.iptvquantum.co:80/murilo/murilo/11454
+#EXTINF:-1,ARG: CANAL 9 SALTA
+http://srv01.iptvquantum.co:80/murilo/murilo/11456
+#EXTINF:-1,ARG: CANAL ORBE 21 HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11449
+#EXTINF:-1,ARG: CANAL ORBE 21 SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11448
+#EXTINF:-1,ARG: TELPIN TV HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11459
+#EXTINF:-1,ARG: TLX HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11451
+#EXTINF:-1,ARG: TN HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11462
+#EXTINF:-1,ARG: TV 5 SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11455
+#EXTINF:-1,ARG: TV REGIONAL UNIMAR
+http://srv01.iptvquantum.co:80/murilo/murilo/11446
+#EXTINF:-1,ARG: VIAJAR TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11445
+#EXTINF:-1,BOL: BOLIVIA TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11426
+#EXTINF:-1,BOL: TV UNITEL
+http://srv01.iptvquantum.co:80/murilo/murilo/11425
+#EXTINF:-1,Chi: CDO
+http://srv01.iptvquantum.co:80/murilo/murilo/11431
+#EXTINF:-1,Chi: EL PINGUINO
+http://srv01.iptvquantum.co:80/murilo/murilo/11427
+#EXTINF:-1,Chi: LA RED TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11432
+#EXTINF:-1,Chi: TELETRACK HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11429
+#EXTINF:-1,Chi: TELETRACK SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11428
+#EXTINF:-1,Chi: UCV TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11430
+#EXTINF:-1,COL: CALI TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11438
+#EXTINF:-1,COL: CANAL CAPITAL HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11440
+#EXTINF:-1,COL: CANAL CAPITAL SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11439
+#EXTINF:-1,COL: CITY TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11442
+#EXTINF:-1,COL: MELODY CHANNEL
+http://srv01.iptvquantum.co:80/murilo/murilo/11441
+#EXTINF:-1,COL: MTN 24
+http://srv01.iptvquantum.co:80/murilo/murilo/11443
+#EXTINF:-1,COL: TELEANTIOQUIA
+http://srv01.iptvquantum.co:80/murilo/murilo/11437
+#EXTINF:-1,col: TELEMEDELLIN
+http://srv01.iptvquantum.co:80/murilo/murilo/11444
+#EXTINF:-1,COL: ZOOM TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11433
+#EXTINF:-1,CR: EXTREMA TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11424
+#EXTINF:-1,CR: TELERED
+http://srv01.iptvquantum.co:80/murilo/murilo/11422
+#EXTINF:-1,EQU: OROMAR TV
+http://srv01.iptvquantum.co:80/murilo/murilo/11421
+#EXTINF:-1,FONTE TV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11477
+#EXTINF:-1,NBR TV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11481
+#EXTINF:-1,NUESTRA TELE INTERNACIONAL HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11412
+#EXTINF:-1,RAI SPORTS
+http://srv01.iptvquantum.co:80/murilo/murilo/11414
+#EXTINF:-1,REDE MINAS²
+http://srv01.iptvquantum.co:80/murilo/murilo/11473
+#EXTINF:-1,REDE SUPER TV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11411
+#EXTINF:-1,SBT ALT²
+http://srv01.iptvquantum.co:80/murilo/murilo/11465
+#EXTINF:-1,SHOPTIME TV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11471
+#EXTINF:-1,SICTV²
+http://srv01.iptvquantum.co:80/murilo/murilo/11466
+#EXTINF:-1,TV ALTERNATIVA (GAZETA MA)²
+http://srv01.iptvquantum.co:80/murilo/murilo/11475
+#EXTINF:-1,TV ARAPUAN²
+http://srv01.iptvquantum.co:80/murilo/murilo/11472
+#EXTINF:-1,TV BRASIL DF²
+http://srv01.iptvquantum.co:80/murilo/murilo/11482
+#EXTINF:-1,TV CATVE (CULTURA PR)²
+http://srv01.iptvquantum.co:80/murilo/murilo/11488
+#EXTINF:-1,TV CENTRAL
+http://srv01.iptvquantum.co:80/murilo/murilo/11489
+#EXTINF:-1,TV DIFUSORA SUL²
+http://srv01.iptvquantum.co:80/murilo/murilo/11476
+#EXTINF:-1,TV MASTER²
+http://srv01.iptvquantum.co:80/murilo/murilo/11470
+#EXTINF:-1,TV O POVO²
+http://srv01.iptvquantum.co:80/murilo/murilo/11484
+#EXTINF:-1,TV PAMPA²
+http://srv01.iptvquantum.co:80/murilo/murilo/11468
+#EXTINF:-1,TV PANTANAL MS²
+http://srv01.iptvquantum.co:80/murilo/murilo/11474
+#EXTINF:-1,TV SERRA DOURADA²
+http://srv01.iptvquantum.co:80/murilo/murilo/11478
+#EXTINF:-1,TV SIM (RECORD NEWS ES)²
+http://srv01.iptvquantum.co:80/murilo/murilo/11479
+#EXTINF:-1,TV UNIAO²
+http://srv01.iptvquantum.co:80/murilo/murilo/11485
+#EXTINF:-1,TV UNIAO NATAL²
+http://srv01.iptvquantum.co:80/murilo/murilo/11469
+#EXTINF:-1,TV VITORIA²
+http://srv01.iptvquantum.co:80/murilo/murilo/11480
+#EXTINF:-1,TVCI²
+http://srv01.iptvquantum.co:80/murilo/murilo/11487
+#EXTINF:-1,TVE (TV BRASIL BA)²
+http://srv01.iptvquantum.co:80/murilo/murilo/11486
+#EXTINF:-1,TVE RS
+http://srv01.iptvquantum.co:80/murilo/murilo/11467
+#EXTINF:-1,VEN: PROMARTV
+http://srv01.iptvquantum.co:80/murilo/murilo/11416
+#EXTINF:-1,VEN: TV GLOBOVISION
+http://srv01.iptvquantum.co:80/murilo/murilo/11419
+#EXTINF:-1,VEN: TV TELESUR
+http://srv01.iptvquantum.co:80/murilo/murilo/11418
+#EXTINF:-1,VEN: TV VENEZUELA
+http://srv01.iptvquantum.co:80/murilo/murilo/11415
+#EXTINF:-1,VEN: VENEZOELANA
+http://srv01.iptvquantum.co:80/murilo/murilo/11417
+#EXTINF:-1,BLOOMBERG HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11510
+#EXTINF:-1,CBS NEWS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11507
+#EXTINF:-1,DOG TV FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11505
+#EXTINF:-1,ESPN EXTRA HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11506
+#EXTINF:-1,GLOBO ES HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11514
+#EXTINF:-1,GLOBO MINAS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11512
+#EXTINF:-1,GLOBO MINAS SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11511
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11513
+#EXTINF:-1,MLB HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11508
+#EXTINF:-1,RED BULL TV  FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/11504
+#EXTINF:-1,REDE VIDA HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11499
+#EXTINF:-1,REDE VIDA SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11498
+#EXTINF:-1,TV CARIOCA HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11509
+#EXTINF:-1,TV UNIVERSAL 1²
+http://srv01.iptvquantum.co:80/murilo/murilo/11492
+#EXTINF:-1,TV UNIVERSAL 2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11494
+#EXTINF:-1,TV UNIVERSAL 2 SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11493
+#EXTINF:-1,USA: FOX 23 NEWS HD
+http://srv01.iptvquantum.co:80/murilo/murilo/11500
+#EXTINF:-1,AXN SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11726
+#EXTINF:-1,BABY TV SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11725
+#EXTINF:-1,BAND NEWS SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11724
+#EXTINF:-1,BAND SP FHD H265
+http://srv01.iptvquantum.co:80/murilo/murilo/11723
+#EXTINF:-1,BAND SP SD.
+http://srv01.iptvquantum.co:80/murilo/murilo/11721
+#EXTINF:-1,BAND SP SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11722
+#EXTINF:-1,BAND SPORTS SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11720
+#EXTINF:-1,BIS HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11717
+#EXTINF:-1,BIS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11716
+#EXTINF:-1,BOING (ESP)*
+http://srv01.iptvquantum.co:80/murilo/murilo/11526
+#EXTINF:-1,BOOMERANG SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11715
+#EXTINF:-1,CANAL BRASIL HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11713
+#EXTINF:-1,CANAL BRASIL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11712
+#EXTINF:-1,CANAL FUTURA HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11711
+#EXTINF:-1,CANAL SONY SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11710
+#EXTINF:-1,CINEMAX SD
+http://srv01.iptvquantum.co:80/murilo/murilo/11709
+#EXTINF:-1,CNN ESPANHOL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11708
+#EXTINF:-1,CNN INTERNACIONAL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11707
+#EXTINF:-1,COMBATE HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11706
+#EXTINF:-1,COMBATE SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11705
+#EXTINF:-1,CONFESSIONÁRIO 
+http://srv01.iptvquantum.co:80/murilo/murilo/11533
+#EXTINF:-1,COPA DO NORDESTE 2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11704
+#EXTINF:-1,COPA DO NORDESTE 2 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11703
+#EXTINF:-1,COPA DO NORDESTE 3 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11702
+#EXTINF:-1,COPA DO NORDESTE 3 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11701
+#EXTINF:-1,COPA DO NORDESTE HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11700
+#EXTINF:-1,COPA DO NORDESTE SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11699
+#EXTINF:-1,COZINHA 
+http://srv01.iptvquantum.co:80/murilo/murilo/11532
+#EXTINF:-1,COMEDY CENTRAL HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11698
+#EXTINF:-1,DISCOVERY CHANNEL FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11696
+#EXTINF:-1,DISCOVERY CHANNEL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11695
+#EXTINF:-1,DISCOVERY H&H SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11694
+#EXTINF:-1,DISCOVERY KIDS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11693
+#EXTINF:-1,DISCOVERY TURBO FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11692
+#EXTINF:-1,DISNEY CHANNEL FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11691
+#EXTINF:-1,DISNEY CHANNEL HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11690
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11689
+#EXTINF:-1,DISNEY JUNIOR FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11688
+#EXTINF:-1,DISNEY JUNIOR HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11687
+#EXTINF:-1,DISNEY JUNIOR SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11686
+#EXTINF:-1,DISNEY XD FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11685
+#EXTINF:-1,DISNEY XD HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11684
+#EXTINF:-1,DISNEY XD SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11683
+#EXTINF:-1,E! SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11682
+#EXTINF:-1,EIPLUS HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11680
+#EXTINF:-1,EIPLUS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11681
+#EXTINF:-1,ENERGY (ESP)*
+http://srv01.iptvquantum.co:80/murilo/murilo/11523
+#EXTINF:-1,ESPN 2 FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11677
+#EXTINF:-1,ESPN 2 SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11676
+#EXTINF:-1,ESPN BRASIL *
+http://srv01.iptvquantum.co:80/murilo/murilo/11675
+#EXTINF:-1,ESPN BRASIL FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11673
+#EXTINF:-1,ESPN BRASIL HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11674
+#EXTINF:-1,ESPN EXTRA FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11672
+#EXTINF:-1,ESPN EXTRA SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11671
+#EXTINF:-1,ESPN FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11678
+#EXTINF:-1,ESPN SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11679
+#EXTINF:-1,FILM & ARTS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11670
+#EXTINF:-1,FISH TV SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11669
+#EXTINF:-1,FOOD NETWORK SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11668
+#EXTINF:-1,FOX FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11667
+#EXTINF:-1,FOX LIFE SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11666
+#EXTINF:-1,FOX SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11665
+#EXTINF:-1,FOX SPORTS 2 SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11664
+#EXTINF:-1,FOX SPORTS FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11663
+#EXTINF:-1,FOX SPORTS SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11662
+#EXTINF:-1,GLOBO BH HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11657
+#EXTINF:-1,GLOBO BRASILIA SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11656
+#EXTINF:-1,GLOBO DF HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11655
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11652
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11654
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11653
+#EXTINF:-1,GLOBO INTER TV CABUGI SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11651
+#EXTINF:-1,GLOBO MINAS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11650
+#EXTINF:-1,GLOBO NEWS HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11648
+#EXTINF:-1,GLOBO NEWS SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11647
+#EXTINF:-1,GLOBO NORDESTE HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11646
+#EXTINF:-1,GLOBO NORDESTE SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11645
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11644
+#EXTINF:-1,GLOBO REDE AMAZONICA HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11643
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11642
+#EXTINF:-1,GLOBO RIO SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11641
+#EXTINF:-1,GLOBO RJ HD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11640
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11639
+#EXTINF:-1,GLOBO SJRP SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11638
+#EXTINF:-1,TOONCAST SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11548
+#EXTINF:-1,TV RA TIM BUM SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11546
+#EXTINF:-1,UNIVERSAL TV FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11544
+#EXTINF:-1,UNIVERSAL TV SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11543
+#EXTINF:-1,VARANDA *
+http://srv01.iptvquantum.co:80/murilo/murilo/11527
+#EXTINF:-1,TBS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11561
+#EXTINF:-1,TCM SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11560
+#EXTINF:-1,TELECINCO HD (ESP)*
+http://srv01.iptvquantum.co:80/murilo/murilo/11521
+#EXTINF:-1,TELECINE ACTION SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11559
+#EXTINF:-1,TELECINE CULT SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11558
+#EXTINF:-1,TELECINE FUN SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11557
+#EXTINF:-1,TELECINE PIPOCA SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11556
+#EXTINF:-1,TELECINE PREMIUM SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11555
+#EXTINF:-1,TELECINE TOUCH SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11554
+#EXTINF:-1,HISTORY CHANNEL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11553
+#EXTINF:-1,TLC SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11552
+#EXTINF:-1,TNT SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11551
+#EXTINF:-1,TNT SERIES FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11550
+#EXTINF:-1,TNT SÉRIES SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11549
+#EXTINF:-1,RECORD MINAS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11582
+#EXTINF:-1,RECORD NEWS FHD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11581
+#EXTINF:-1,RECORD NEWS SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11580
+#EXTINF:-1,RECORD RIO FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11579
+#EXTINF:-1,RECORD RIO SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11578
+#EXTINF:-1,RECORD RS FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11577
+#EXTINF:-1,RECORD RS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11576
+#EXTINF:-1,RECORD SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11574
+#EXTINF:-1,RECORD SP HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11573
+#EXTINF:-1,SEXTREME SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11572
+#EXTINF:-1,PREMIERE 6 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11593
+#EXTINF:-1,PREMIERE 7 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11592
+#EXTINF:-1,PREMIERE 8 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11591
+#EXTINF:-1,PREMIERE CLUBES FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11590
+#EXTINF:-1,PREMIERE CLUBES HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11589
+#EXTINF:-1,PREMIERE CLUBES SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11588
+#EXTINF:-1,QUARTO DIAMANTE *
+http://srv01.iptvquantum.co:80/murilo/murilo/11530
+#EXTINF:-1,QUARTO OURO *
+http://srv01.iptvquantum.co:80/murilo/murilo/11529
+#EXTINF:-1,RECORD BRASILIA FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11587
+#EXTINF:-1,RECORD BRASILIA SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11586
+#EXTINF:-1,RECORD FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11575
+#EXTINF:-1,RECORD ITAPOAN FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11585
+#EXTINF:-1,RECORD ITAPOAN¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11584
+#EXTINF:-1,RECORD MINAS FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11583
+#EXTINF:-1,PISCINA *
+http://srv01.iptvquantum.co:80/murilo/murilo/11531
+#EXTINF:-1,PLAY TV SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11601
+#EXTINF:-1,PLAYBOY SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11600
+#EXTINF:-1,PLAYKIDS HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11599
+#EXTINF:-1,PREMIERE 2 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11598
+#EXTINF:-1,PREMIERE 3 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11597
+#EXTINF:-1,PREMIERE 4 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11596
+#EXTINF:-1,PREMIERE 5 FHD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11594
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11605
+#EXTINF:-1,NICK JR SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11604
+#EXTINF:-1,NICKELODEON SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11603
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11634
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11547
+#EXTINF:-1,GLOBO TV TEM BAURU SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11633
+#EXTINF:-1,GLOBO TV TEM SOROCABA¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11649
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11632
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11545
+#EXTINF:-1,GLOOB HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11631
+#EXTINF:-1,GLOOB SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11630
+#EXTINF:-1,GLOOBINHO HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11629
+#EXTINF:-1,GNT HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11628
+#EXTINF:-1,GNT SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11627
+#EXTINF:-1,HBO 2 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11626
+#EXTINF:-1,HBO FAMILY SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11625
+#EXTINF:-1,HBO PLUS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11624
+#EXTINF:-1,HBO SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11623
+#EXTINF:-1,HBO SIGNATURE SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11622
+#EXTINF:-1,H2 SD²
+http://srv01.iptvquantum.co:80/murilo/murilo/11621
+#EXTINF:-1,LIFETIME SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11618
+#EXTINF:-1,MAIS GLOBOSAT HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11617
+#EXTINF:-1,MAIS GLOBOSAT SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11616
+#EXTINF:-1,MAX PRIME SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11615
+#EXTINF:-1,MAX SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11614
+#EXTINF:-1,MAX UP SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11613
+#EXTINF:-1,MEGAPIX SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11612
+#EXTINF:-1,MTV SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11611
+#EXTINF:-1,MULTISHOW HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11610
+#EXTINF:-1,MULTISHOW SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11609
+#EXTINF:-1,MUSIC BOX BRAZIL SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11608
+#EXTINF:-1,GLOBO SP FHD H265¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11661
+#EXTINF:-1,GLOBO SP HD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11660
+#EXTINF:-1,GLOBO SP SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11659
+#EXTINF:-1,GLOBO SP¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11658
+#EXTINF:-1,GLOBO TV  TRIBUNA SANTOS SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11637
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD *
+http://srv01.iptvquantum.co:80/murilo/murilo/11636
+#EXTINF:-1,GLOBO TV BAHIA SD*
+http://srv01.iptvquantum.co:80/murilo/murilo/11635
+#EXTINF:-1,NATGEO KIDS SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11607
+#EXTINF:-1,NATGEO WILD SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11606
+#EXTINF:-1,PREMIERE 5 SD¹
+http://srv01.iptvquantum.co:80/murilo/murilo/11595
+#EXTINF:-1,DISCOVERY KIDS HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12908
+#EXTINF:-1,DISNEY JUNIOR FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12906
+#EXTINF:-1,ESPN 2 HD
+http://srv01.iptvquantum.co:80/murilo/murilo/12891
+#EXTINF:-1,ESPN BRASIL FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12915
+#EXTINF:-1,ESPN BRASIL HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12916
+#EXTINF:-1,FOX PREMIUM 2 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12892
+#EXTINF:-1,FOX PREMIUM 2 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12890
+#EXTINF:-1,GLOOB FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12907
+#EXTINF:-1,HISTORY FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12911
+#EXTINF:-1,HISTORY HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12912
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12898
+#EXTINF:-1,MAXPRIME HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12897
+#EXTINF:-1,NATGEO KIDS HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12896
+#EXTINF:-1,NICK JR FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12910
+#EXTINF:-1,PFC 5 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12903
+#EXTINF:-1,PFC 6 HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12904
+#EXTINF:-1,PLAYBOY HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12913
+#EXTINF:-1,Sbt HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12888
+#EXTINF:-1,Sportv FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12914
+#EXTINF:-1,RECORD HD
+http://srv01.iptvquantum.co:80/murilo/murilo/12895
+#EXTINF:-1,Record News FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12886
+#EXTINF:-1,RECORD SP FHD
+http://srv01.iptvquantum.co:80/murilo/murilo/12887
+#EXTINF:-1,TBS FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12901
+#EXTINF:-1,TBS HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12894
+#EXTINF:-1,TNT SERIES FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12900
+#EXTINF:-1,TNT SERIES HD²
+http://srv01.iptvquantum.co:80/murilo/murilo/12893
+#EXTINF:-1,A&E FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/15390
+#EXTINF:-1,AMC FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/15389
+#EXTINF:-1,Animal Planet FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/15388
+#EXTINF:-1,ARTE 1 FHD²
+http://srv01.iptvquantum.co:80/murilo/murilo/15386
+#EXTINF:-1,APENAS UM SHOW
+http://srv01.iptvquantum.co:80/murilo/murilo/12657
+#EXTINF:-1,ARMAÇÃO ILIMITADA
+http://srv01.iptvquantum.co:80/murilo/murilo/12656
+#EXTINF:-1,BACKYARDIGANS
+http://srv01.iptvquantum.co:80/murilo/murilo/12632
+#EXTINF:-1,BATMAN E ROBIN
+http://srv01.iptvquantum.co:80/murilo/murilo/12655
+#EXTINF:-1,CAPITÃO PLANETA
+http://srv01.iptvquantum.co:80/murilo/murilo/12654
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://srv01.iptvquantum.co:80/murilo/murilo/12647
+#EXTINF:-1,CHANGEMAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12653
+#EXTINF:-1,CHARLIE BROWN E SNOOPY
+http://srv01.iptvquantum.co:80/murilo/murilo/12652
+#EXTINF:-1,CHAVES OFICIAL
+http://srv01.iptvquantum.co:80/murilo/murilo/12651
+#EXTINF:-1,CLIPES ROCK N ROLL
+http://srv01.iptvquantum.co:80/murilo/murilo/12650
+#EXTINF:-1,CORRIDA MALUCA
+http://srv01.iptvquantum.co:80/murilo/murilo/12649
+#EXTINF:-1,DRAGON BALL SUPER
+http://srv01.iptvquantum.co:80/murilo/murilo/12627
+#EXTINF:-1,FAMÍLIA DINOSSAURO
+http://srv01.iptvquantum.co:80/murilo/murilo/12646
+#EXTINF:-1,FLASHMAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12626
+#EXTINF:-1,FORMIGA ATÔMICA
+http://srv01.iptvquantum.co:80/murilo/murilo/12648
+#EXTINF:-1,GATO FELIX
+http://srv01.iptvquantum.co:80/murilo/murilo/12644
+#EXTINF:-1,HE-MAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12643
+#EXTINF:-1,HORA DE AVENTURA
+http://srv01.iptvquantum.co:80/murilo/murilo/12631
+#EXTINF:-1,JASPION
+http://srv01.iptvquantum.co:80/murilo/murilo/12625
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://srv01.iptvquantum.co:80/murilo/murilo/12642
+#EXTINF:-1,MACGYVER
+http://srv01.iptvquantum.co:80/murilo/murilo/12641
+#EXTINF:-1,MR. BEAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12624
+#EXTINF:-1,NINJA JIRAIYA
+http://srv01.iptvquantum.co:80/murilo/murilo/12640
+#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY
+http://srv01.iptvquantum.co:80/murilo/murilo/12639
+#EXTINF:-1,OS FLINTSTONES
+http://srv01.iptvquantum.co:80/murilo/murilo/12638
+#EXTINF:-1,OS NORMAIS
+http://srv01.iptvquantum.co:80/murilo/murilo/12637
+#EXTINF:-1,OS SIMPSONS
+http://srv01.iptvquantum.co:80/murilo/murilo/12636
+#EXTINF:-1,OS TRAPALHÕES OFICIAL
+http://srv01.iptvquantum.co:80/murilo/murilo/12645
+#EXTINF:-1,PATATI PATATA
+http://srv01.iptvquantum.co:80/murilo/murilo/12635
+#EXTINF:-1,PICA-PAU
+http://srv01.iptvquantum.co:80/murilo/murilo/12630
+#EXTINF:-1,POPEYE
+http://srv01.iptvquantum.co:80/murilo/murilo/12633
+#EXTINF:-1,SCOOBY DOO
+http://srv01.iptvquantum.co:80/murilo/murilo/12628
+#EXTINF:-1,SPECTREMAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12629
+#EXTINF:-1,SPEED RACER
+http://srv01.iptvquantum.co:80/murilo/murilo/12621
+#EXTINF:-1,SUPER AMIGOS
+http://srv01.iptvquantum.co:80/murilo/murilo/12620
+#EXTINF:-1,SUPER VICKY
+http://srv01.iptvquantum.co:80/murilo/murilo/12619
+#EXTINF:-1,THE BIG BANG THEORY
+http://srv01.iptvquantum.co:80/murilo/murilo/12618
+#EXTINF:-1,THUNDERCATS
+http://srv01.iptvquantum.co:80/murilo/murilo/12617
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://srv01.iptvquantum.co:80/murilo/murilo/12623
+#EXTINF:-1,TOM & JERRY
+http://srv01.iptvquantum.co:80/murilo/murilo/12616
+#EXTINF:-1,TURMA DA MÔNICA
+http://srv01.iptvquantum.co:80/murilo/murilo/12615
+#EXTINF:-1,ULTRAMAN
+http://srv01.iptvquantum.co:80/murilo/murilo/12622
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+http://srv01.iptvquantum.co:80/murilo/murilo/12614

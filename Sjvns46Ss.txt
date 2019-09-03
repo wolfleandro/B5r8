@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1,|BR| A&E
+http://fpro.webvps.de:25443/tahsin/123456/17667
+#EXTINF:-1,|BR| ANIMAL PLANET
+http://fpro.webvps.de:25443/tahsin/123456/17666
+#EXTINF:-1,|BR| Aparceida
+http://fpro.webvps.de:25443/tahsin/123456/17665
+#EXTINF:-1,|BR| Arte 1
+http://fpro.webvps.de:25443/tahsin/123456/17664
+#EXTINF:-1,|BR| AXN
+http://fpro.webvps.de:25443/tahsin/123456/17663
+#EXTINF:-1,|BR| BAND
+http://fpro.webvps.de:25443/tahsin/123456/17662
+#EXTINF:-1,|BR| BAND NEWS
+http://fpro.webvps.de:25443/tahsin/123456/17661
+#EXTINF:-1,|BR| BAND SPORTS
+http://fpro.webvps.de:25443/tahsin/123456/17660
+#EXTINF:-1,|BR| BIS
+http://fpro.webvps.de:25443/tahsin/123456/17659
+#EXTINF:-1,|BR| Boomerang
+http://fpro.webvps.de:25443/tahsin/123456/17658
+#EXTINF:-1,|BR| Brazil 2
+http://fpro.webvps.de:25443/tahsin/123456/17657
+#EXTINF:-1,|BR| Can
+http://fpro.webvps.de:25443/tahsin/123456/17651
+#EXTINF:-1,|BR| Canal Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17656
+#EXTINF:-1,|BR| Canal Do Boi Tv
+http://fpro.webvps.de:25443/tahsin/123456/17655
+#EXTINF:-1,|BR| Canal DO TV
+http://fpro.webvps.de:25443/tahsin/123456/17654
+#EXTINF:-1,|BR| CANAL ESCOLA
+http://fpro.webvps.de:25443/tahsin/123456/17653
+#EXTINF:-1,|BR| Canal Sony
+http://fpro.webvps.de:25443/tahsin/123456/17652
+#EXTINF:-1,|BR| Combate
+http://fpro.webvps.de:25443/tahsin/123456/17648
+#EXTINF:-1,|BR| Conexaobr Tv
+http://fpro.webvps.de:25443/tahsin/123456/17647
+#EXTINF:-1,|BR| DISCOVERY
+http://fpro.webvps.de:25443/tahsin/123456/17646
+#EXTINF:-1,|BR| Discovery Civilization
+http://fpro.webvps.de:25443/tahsin/123456/17645
+#EXTINF:-1,|BR| Discovery Home Health
+http://fpro.webvps.de:25443/tahsin/123456/17644
+#EXTINF:-1,|BR| Discovery Science
+http://fpro.webvps.de:25443/tahsin/123456/17643
+#EXTINF:-1,|BR| Discovery Turbo
+http://fpro.webvps.de:25443/tahsin/123456/17642
+#EXTINF:-1,|BR| Disney
+http://fpro.webvps.de:25443/tahsin/123456/17641
+#EXTINF:-1,|BR| Disney Jr
+http://fpro.webvps.de:25443/tahsin/123456/17640
+#EXTINF:-1,|BR| Disney XD Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17639
+#EXTINF:-1,|BR| DW Latin
+http://fpro.webvps.de:25443/tahsin/123456/17638
+#EXTINF:-1,|BR| E!
+http://fpro.webvps.de:25443/tahsin/123456/17637
+#EXTINF:-1,|BR| E! MAXX 2
+http://fpro.webvps.de:25443/tahsin/123456/17636
+#EXTINF:-1,|BR| Eimax 1
+http://fpro.webvps.de:25443/tahsin/123456/17635
+#EXTINF:-1,|BR| ESPN
+http://fpro.webvps.de:25443/tahsin/123456/17634
+#EXTINF:-1,|BR| ESPN Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17633
+#EXTINF:-1,|BR| ESPN HD
+http://fpro.webvps.de:25443/tahsin/123456/17632
+#EXTINF:-1,|BR| ESPN plus
+http://fpro.webvps.de:25443/tahsin/123456/17631
+#EXTINF:-1,|BR| Fish TV
+http://fpro.webvps.de:25443/tahsin/123456/17630
+#EXTINF:-1,|BR| FOX
+http://fpro.webvps.de:25443/tahsin/123456/17629
+#EXTINF:-1,|BR| Fox Life
+http://fpro.webvps.de:25443/tahsin/123456/17628
+#EXTINF:-1,|BR| FOX Sports 1
+http://fpro.webvps.de:25443/tahsin/123456/17627
+#EXTINF:-1,|BR| Fox Sports 2
+http://fpro.webvps.de:25443/tahsin/123456/17626
+#EXTINF:-1,|BR| FUTURA
+http://fpro.webvps.de:25443/tahsin/123456/17625
+#EXTINF:-1,|BR| FX
+http://fpro.webvps.de:25443/tahsin/123456/17624
+#EXTINF:-1,|BR| GLOBAL TV
+http://fpro.webvps.de:25443/tahsin/123456/17623
+#EXTINF:-1,|BR| Globo News
+http://fpro.webvps.de:25443/tahsin/123456/17622
+#EXTINF:-1,|BR| Globo Premium
+http://fpro.webvps.de:25443/tahsin/123456/17621
+#EXTINF:-1,|BR| Globo SP
+http://fpro.webvps.de:25443/tahsin/123456/17620
+#EXTINF:-1,|BR| Gloob
+http://fpro.webvps.de:25443/tahsin/123456/17619
+#EXTINF:-1,|BR| GNT
+http://fpro.webvps.de:25443/tahsin/123456/17618
+#EXTINF:-1,|BR| H2
+http://fpro.webvps.de:25443/tahsin/123456/17617
+#EXTINF:-1,|BR| HBO
+http://fpro.webvps.de:25443/tahsin/123456/17616
+#EXTINF:-1,|BR| HBO 2
+http://fpro.webvps.de:25443/tahsin/123456/17615
+#EXTINF:-1,|BR| HBO Family
+http://fpro.webvps.de:25443/tahsin/123456/17614
+#EXTINF:-1,|BR| HBO Plus
+http://fpro.webvps.de:25443/tahsin/123456/17613
+#EXTINF:-1,|BR| HBO Signature
+http://fpro.webvps.de:25443/tahsin/123456/17612
+#EXTINF:-1,|BR| Investiga
+http://fpro.webvps.de:25443/tahsin/123456/17611
+#EXTINF:-1,|BR| Mais Globosat HD
+http://fpro.webvps.de:25443/tahsin/123456/17610
+#EXTINF:-1,|BR| MANA SAT
+http://fpro.webvps.de:25443/tahsin/123456/17609
+#EXTINF:-1,|BR| Max
+http://fpro.webvps.de:25443/tahsin/123456/17608
+#EXTINF:-1,|BR| Max Prime
+http://fpro.webvps.de:25443/tahsin/123456/17607
+#EXTINF:-1,|BR| Max Up
+http://fpro.webvps.de:25443/tahsin/123456/17606
+#EXTINF:-1,|BR| MegaPix
+http://fpro.webvps.de:25443/tahsin/123456/17605
+#EXTINF:-1,|BR| MTV
+http://fpro.webvps.de:25443/tahsin/123456/17604
+#EXTINF:-1,|BR| Multishow
+http://fpro.webvps.de:25443/tahsin/123456/17603
+#EXTINF:-1,|BR| Music Box Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17602
+#EXTINF:-1,|BR| National Geographic
+http://fpro.webvps.de:25443/tahsin/123456/17601
+#EXTINF:-1,|BR| Nick
+http://fpro.webvps.de:25443/tahsin/123456/17600
+#EXTINF:-1,|BR| Nick Jr
+http://fpro.webvps.de:25443/tahsin/123456/17599
+#EXTINF:-1,|BR| Novo Tempo
+http://fpro.webvps.de:25443/tahsin/123456/17598
+#EXTINF:-1,|BR| OFF
+http://fpro.webvps.de:25443/tahsin/123456/17597
+#EXTINF:-1,|BR| Paramount
+http://fpro.webvps.de:25443/tahsin/123456/17596
+#EXTINF:-1,|BR| PFC
+http://fpro.webvps.de:25443/tahsin/123456/17595
+#EXTINF:-1,|BR| Premiere 2
+http://fpro.webvps.de:25443/tahsin/123456/17594
+#EXTINF:-1,|BR| Premiere 3
+http://fpro.webvps.de:25443/tahsin/123456/17593
+#EXTINF:-1,|BR| Premiere 4
+http://fpro.webvps.de:25443/tahsin/123456/17592
+#EXTINF:-1,|BR| Premiere 5
+http://fpro.webvps.de:25443/tahsin/123456/17591
+#EXTINF:-1,|BR| Premiere 9
+http://fpro.webvps.de:25443/tahsin/123456/17590
+#EXTINF:-1,|BR| Premiere Clubes
+http://fpro.webvps.de:25443/tahsin/123456/17589
+#EXTINF:-1,|BR| Prime Box Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17588
+#EXTINF:-1,|BR| Proyecto 40
+http://fpro.webvps.de:25443/tahsin/123456/17587
+#EXTINF:-1,|BR| RCTV
+http://fpro.webvps.de:25443/tahsin/123456/17586
+#EXTINF:-1,|BR| Record News
+http://fpro.webvps.de:25443/tahsin/123456/17585
+#EXTINF:-1,|BR| RECORD PB
+http://fpro.webvps.de:25443/tahsin/123456/17584
+#EXTINF:-1,|BR| REDE GOSPEL
+http://fpro.webvps.de:25443/tahsin/123456/17583
+#EXTINF:-1,|BR| REDE RECORD
+http://fpro.webvps.de:25443/tahsin/123456/17582
+#EXTINF:-1,|BR| REDE TV
+http://fpro.webvps.de:25443/tahsin/123456/17581
+#EXTINF:-1,|BR| SBT
+http://fpro.webvps.de:25443/tahsin/123456/17580
+#EXTINF:-1,|BR| SBT Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17579
+#EXTINF:-1,|BR| Space Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17578
+#EXTINF:-1,|BR| Sport TV
+http://fpro.webvps.de:25443/tahsin/123456/17577
+#EXTINF:-1,|BR| SPORT TV 2
+http://fpro.webvps.de:25443/tahsin/123456/17576
+#EXTINF:-1,|BR| SPORT TV 3
+http://fpro.webvps.de:25443/tahsin/123456/17575
+#EXTINF:-1,|BR| Sport TV2
+http://fpro.webvps.de:25443/tahsin/123456/17574
+#EXTINF:-1,|BR| Sport TV3
+http://fpro.webvps.de:25443/tahsin/123456/17573
+#EXTINF:-1,|BR| Studio Universal
+http://fpro.webvps.de:25443/tahsin/123456/17572
+#EXTINF:-1,|BR| Syfy
+http://fpro.webvps.de:25443/tahsin/123456/17571
+#EXTINF:-1,|BR| TBS Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17570
+#EXTINF:-1,|BR| TC Action
+http://fpro.webvps.de:25443/tahsin/123456/17569
+#EXTINF:-1,|BR| TC Cult
+http://fpro.webvps.de:25443/tahsin/123456/17568
+#EXTINF:-1,|BR| TC Fun
+http://fpro.webvps.de:25443/tahsin/123456/17567
+#EXTINF:-1,|BR| TC Pipoca
+http://fpro.webvps.de:25443/tahsin/123456/17566
+#EXTINF:-1,|BR| TC Premium
+http://fpro.webvps.de:25443/tahsin/123456/17565
+#EXTINF:-1,|BR| TC Touch
+http://fpro.webvps.de:25443/tahsin/123456/17564
+#EXTINF:-1,|BR| TCM
+http://fpro.webvps.de:25443/tahsin/123456/17563
+#EXTINF:-1,|BR| The History Channel
+http://fpro.webvps.de:25443/tahsin/123456/17562
+#EXTINF:-1,|BR| TLC
+http://fpro.webvps.de:25443/tahsin/123456/17561
+#EXTINF:-1,|BR| TNT
+http://fpro.webvps.de:25443/tahsin/123456/17560
+#EXTINF:-1,|BR| TNT Series
+http://fpro.webvps.de:25443/tahsin/123456/17559
+#EXTINF:-1,|BR| Tooncast
+http://fpro.webvps.de:25443/tahsin/123456/17558
+#EXTINF:-1,|BR| Tru TV
+http://fpro.webvps.de:25443/tahsin/123456/17557
+#EXTINF:-1,|BR| TV Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17556
+#EXTINF:-1,|BR| TV BRASIL CENTRAL
+http://fpro.webvps.de:25443/tahsin/123456/17555
+#EXTINF:-1,|BR| TV Diario
+http://fpro.webvps.de:25443/tahsin/123456/17554
+#EXTINF:-1,|BR| TV Diario Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17553
+#EXTINF:-1,|BR| Tv Escola
+http://fpro.webvps.de:25443/tahsin/123456/17552
+#EXTINF:-1,|BR| TV GAZETA HD
+http://fpro.webvps.de:25443/tahsin/123456/17551
+#EXTINF:-1,|BR| TV GERAL
+http://fpro.webvps.de:25443/tahsin/123456/17550
+#EXTINF:-1,|BR| TV Globo
+http://fpro.webvps.de:25443/tahsin/123456/17549
+#EXTINF:-1,|BR| TV Globo Premium
+http://fpro.webvps.de:25443/tahsin/123456/17548
+#EXTINF:-1,|BR| TV Record
+http://fpro.webvps.de:25443/tahsin/123456/17547
+#EXTINF:-1,|BR| TV Urbana Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17546
+#EXTINF:-1,|BR| TVE HD 720 Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17545
+#EXTINF:-1,|BR| TVI
+http://fpro.webvps.de:25443/tahsin/123456/17544
+#EXTINF:-1,|BR| Universal Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17543
+#EXTINF:-1,|BR| Vem e Ve TV
+http://fpro.webvps.de:25443/tahsin/123456/17542
+#EXTINF:-1,|BR| VH1 Mega Hits
+http://fpro.webvps.de:25443/tahsin/123456/17541
+#EXTINF:-1,|BR| Viva
+http://fpro.webvps.de:25443/tahsin/123456/17540
+#EXTINF:-1,|BR| WARNER
+http://fpro.webvps.de:25443/tahsin/123456/17539
+#EXTINF:-1,|BR| Woohoo Brasil
+http://fpro.webvps.de:25443/tahsin/123456/17538
