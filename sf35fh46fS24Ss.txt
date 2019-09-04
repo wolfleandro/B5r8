@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,Super Sport 1 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/240
+#EXTINF:-1,Super Sport 2 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/239
+#EXTINF:-1,Super Sport 3 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/238
+#EXTINF:-1,Super Sport 4 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/237
+#EXTINF:-1,SUPER SPORT 5
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/189
+#EXTINF:-1,Tring Sport News
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/236
+#EXTINF:-1,Tring Sport 1 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/235
+#EXTINF:-1,Tring Sport 2 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/234
+#EXTINF:-1,Tring Sport 3 HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/233
+#EXTINF:-1,Tring Sport 4
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/232
+#EXTINF:-1,Dazn Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/231
+#EXTINF:-1,Dazn Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/230
+#EXTINF:-1,K Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/229
+#EXTINF:-1,K Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/228
+#EXTINF:-1,K Sport 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/227
+#EXTINF:-1,K Sport 4
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/226
+#EXTINF:-1,Sky Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/225
+#EXTINF:-1,Sky Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/224
+#EXTINF:-1,Sky Bundesliga
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/223
+#EXTINF:-1,Sport Klub 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/222
+#EXTINF:-1,Sport Klub 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/221
+#EXTINF:-1,Sport Klub 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/220
+#EXTINF:-1,Arena Sport 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/219
+#EXTINF:-1,Arena Sport 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/216
+#EXTINF:-1,Arena Sport 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/217
+#EXTINF:-1,Arena Sport 4
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/218
+#EXTINF:-1,Sky Arts DE
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/453
+#EXTINF:-1,SKY SPORT NEWS HD
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/451
+#EXTINF:-1,Eurosport Deutschland
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/214
+#EXTINF:-1,TELE SPORT
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/247
