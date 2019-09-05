@@ -1,0 +1,330 @@
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="",NAT_GEO_WILD
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/113.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="",DISNEY_XD
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/120.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/4/46/Cartoon_Network.png/revision/latest?cb=20131019183006&path-prefix=pt-br" group-title="",CARTOON_NETWORK
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/117.m3u8
+
+#EXTINF:0 tvg-logo="https://d23.com/app/uploads/2019/07/071519_nat-geo-pr-expo-1180w-600hIris-780x440-1563206695.jpg" group-title="",NATIONAL_GEOGRAPHIC
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/112.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/DC_2014_hero.svg" group-title="",DISNEY_CHANNEL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/118.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="",BOOMERANG
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/127.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="",TOONCAST
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/124.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="",DISCOVERY_SCIENCE
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/107.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="",DISCOVERY_TURBO
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/109.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="",ANIMAL_PLANET
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/101.m3u8
+
+#EXTINF:0 tvg-logo="https://pmcvariety.files.wordpress.com/2018/02/history-channel-logo.jpg?w=1000" group-title="",HISTORY_CHANNEL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/102.m3u8
+
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="",HISTORY_CHANNEL2
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/103.m3u8
+
+#EXTINF:0 tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/discovery-channel/medium_logo.jpg" group-title="",DISCOVERY_CHANNEL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/104.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.vox-cdn.com/thumbor/ca5kCBb0Xgh7kd7FaTPQ4TBjPFw=/0x28:1019x707/1200x800/filters:focal(0x28:1019x707)/cdn.vox-cdn.com/uploads/chorus_image/image/45580448/nickelodeon_logo_1020.0.jpg" group-title="",NICKELODEON
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/123.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="",DISCOVERY_CIVILIZATION
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/105.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="",GLOBO_NEWS
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/97/7f4bad103829dc214ee60819de9485ff/97_153.ts
+
+#EXTINF:0 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="",NICK_JR
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/122.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="",DISCOVERY_KIDS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/111.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="",OFF
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/99.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="",COMEDY_CENTRAL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/93.m3u8
+
+#EXTINF:0 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/04/logo_tv_foodnetwork_apr2017.png" group-title="",FOODNETWORK
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/90.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/ZHgYRhOxxh_QgrHzsqc-GIRA-84=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/47/8a/f07b9f292b8c622e145f98636e96.png" group-title="",GNT
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/89/11534a82b6b0221c70a8c16cdb4224eb/89_0.ts
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-IVRi6G8ptjk/VSW-_Yi0XrI/AAAAAAAAkRs/be5yX8IXBZQ/s1600/Warner_Channel_logo.png" group-title="",WARNER
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/116.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="",TBS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/85.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bis_m.png" group-title="",BIS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/94.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="",MULTISHOW
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/86.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.vox-cdn.com/thumbor/2Pn8grRKl-GhCy1UNa7Gdhl0k_M=/0x10:1100x743/1200x800/filters:focal(0x10:1100x743)/cdn.vox-cdn.com/assets/2874029/MTV.jpg" group-title="",MTV
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/87.m3u8
+
+#EXTINF:0 tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg" group-title="",FISH_TV
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/91.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="",VH1
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/84.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="",MAXPRIME
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/79.m3u8
+
+#EXTINF:0 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63263_logo_max_up.png" group-title="",MAXUP
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/80.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="",MAX
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/78.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="",LIFETIME
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/88.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal_m.png" group-title="",STUDIO_UNIVERSAL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/73.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/Universal_Channel_2013.png/revision/latest?cb=20171215184613" group-title="",UNIVERSAL_CHANNEL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/74.m3u8
+
+#EXTINF:0 tvg-logo="http://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="",TCM
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/72.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="",PARAMOUNT
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/75.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CINEMAX
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/76.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="",TLC
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/71.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/axn.png" group-title="",AXN
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/70.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="",MEGAPIX
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/68.m3u8
+
+#EXTINF:0 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title="",SPACE
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/67.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="",AMC
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/69.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="",TNT_SERIES
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/66.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title="",TNT
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/65.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="",FOXLIFE
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/64.m3u8
+
+#EXTINF:0 tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="",FOXPREMIUM2
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/63.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="",FOXPREMIUM1
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/62/ba05773f8380107e2168c530e7de68c5/62_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="",FOX
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/61.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/2000px-Syfy_Universal.svg.png" group-title="",SYFY
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/60.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sonychannel2019.jpg" group-title="",SONY
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/59.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="",HBO_SIGNATURE
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/58/ee50d07ecaeeefd720b144adc66b3306/58_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="",HBO_FAMILY
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/57.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="",HBO_PLUS
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/56/b1a86085e10617550eb05c4659f0a84c/56_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="",HBO2
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/55.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://images.impresa.pt/sicnot/2019-02-12-RTX6CO3A.jpg/original/mw-860" group-title="",HBO
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/54.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="",TELE_CINE_CULT
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/53.m3u8
+
+#EXTINF:0 tvg-logo="https://skytvplanos.com.br/img/channels/lg-63-canal-tc-touch.png" group-title="",TC_TOUCH
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/52.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="",TELECINE_PIPOCA
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/49.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="",TELECINE_ACTION
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/51.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecine_Fun_2.png/300px-Telecine_Fun_2.png" group-title="",TC_FUN
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/50.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="",TELECINE_PREMIUM
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/48.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/PS1uKvR4inBz2sknwk2vmGbv3PQ=/362x536/s2.glbimg.com/Nn9mUYtjF-IN1fH2L6OV-ZYEv28=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/76/72/c387b50bc7084d98383eab22bd98.jpg" group-title="",COMBATE
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/77.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="",BANDSPORTS
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/34/b0c08f83ce4f95179e02f6e7dda39c68/34_1.ts
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE FC9
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/43/d5925aa04cd32960ef58f4a0ce5298e1/43_0.ts
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_FC8
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/42/f330e4782bb532f4ccfa46670e259578/42_0.ts
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_FC7
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/41.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_FC6
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/40/1d5727c72023a8f03e83188aabf37aa9/40_0.ts
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_4
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/38.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_FC3
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/37.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="",PREMIERE_FC2
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/36/01b6c333454003b6b4cb9ecc42b72d67/36_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="",ESPN_BRASIL
+ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/32.m3u8
+
+#EXTINF:0 tvg-logo="https://tvassinatura.com/wp-content/uploads/2017/10/canal-espn-extra.jpg" group-title="",ESPN_EXTRA
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/33.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/sv_espn-2_m.png" group-title="",ESPN2+
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/31.m3u8 
+
+#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="",ESPN
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/30.m3u8
+
+#EXTINF:0 tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="",DAZN
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/129.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png" group-title="",FOXSPORTS2
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/29.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lance.com.br/files/article_main/uploads/2019/02/26/5c75fc0e4a01e.jpeg" group-title="",FOXSPORTS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/28.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-aiXcm4J-7qM/XG-83zHgSZI/AAAAAAAA1-s/zta_SU5Aa5Q9_F0zVpaxevQ36x6oNqZmQCLcBGAs/s1600/sportv3.jpg" group-title="",SPORTV3
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/27.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png" group-title="",SPORTV2
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/26.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="",SPORTV
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/25.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/47.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="",A_E CHANNEL
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/46.m3u8
+
+#EXTINF:0 tvg-logo="https://azbrasilbr.com.br/modules/blog/dataimages/IMG_9294A6-0EBD20-B30D71-9DB445-42051C-EDE673.png" group-title="",CINESKY
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/45.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="",TVCULTURA
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/6.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvescola.png" group-title="",TVESCOLA
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/7.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="",TVGAZETA
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/9.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/HQhY9ykNDR9rnUBFmejNtr5gkiWiU7zMnBsvNeFEeiRzDd3dJ9pbBk6lOm7cv2qT1LI" group-title="",ALLSPORTS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/24.m3u8
+
+#EXTINF:0 tvg-logo="https://images.redetv.uol.com.br/thumbnail_aovivo/igrejadagracanoseular.jpg" group-title="",REDETV
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/5.m3u8
+
+#EXTINF:0 tvg-logo="https://www.ocanal.com.br/wp-content/uploads/2019/08/band-programacao-990x556.jpg" group-title="",BAND
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/4/084a90fb5daf051e7a97c0a73d6e730d/4_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="",RECORD
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/3.m3u8
+
+
+#EXTINF:0 tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2018/11/globo-baixas-no-jornalismo-990x530.jpg" group-title="",GLOBO
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/17.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="",SBT
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/2.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="",DISCOVERYWORLD
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/110.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="",DISCOVERY_THEATER
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/108.m3u8
+
+#EXTINF:0 tvg-logo="https://imagem.natelinha.uol.com.br/grande/arte1-logo_2593174c02fdba9458fbf1a47c86c1cc9ce6dd11.jpeg" group-title="",ARTE1
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/96.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="",ZOOMOO
+https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/126/2647ea0575a0551c886289f85a6cae60/126_0.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="",BABYTV
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/128.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/1837c9ac3ebb8c09bb53f46e6235c7b7/386x218-Q90_1837c9ac3ebb8c09bb53f46e6235c7b7.png" group-title="",DISNEYJR
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/119.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0 tvg-logo="" group-title="",
+
