@@ -33,7 +33,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/109.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/101.m3u8
 
 #EXTINF:0 tvg-logo="https://pmcvariety.files.wordpress.com/2018/02/history-channel-logo.jpg?w=1000" group-title="",HISTORY_CHANNEL
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/102.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:336
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/102/a90687e6c489d6c403df6ef75db00a97/102_336.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/102/4e21f64ab6374a50e67f0cff01160d07/102_337.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/102/69bbe564a7205b2da5fd3abb6f3491d6/102_338.ts
+#EXTINF:10.010089,
+/hls/Internacional/GanhouKKKK/102/c20dfdb094228a820f4b9ef6eb1de27b/102_339.ts
+#EXTINF:10.010089,
+/hls/Internacional/GanhouKKKK/102/9c960df6a7de0086b302971045b04d55/102_340.ts
+#EXTINF:10.010089,
+/hls/Internacional/GanhouKKKK/102/83cf682ecb92379e3a18db8c59a82f45/102_341.ts
+
 
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="",HISTORY_CHANNEL2
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/103.m3u8
@@ -75,10 +92,40 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/116.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/85.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bis_m.png" group-title="",BIS
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/94.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/94/e82865a884f533302d6ecc733d49450d/94_0.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/94/08dd3bc13e1a5f28c8a974335b1d2b87/94_1.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/94/60a556f3ec8b86830a7867e4ad5ecd08/94_2.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/94/2460764bdad684516e1565aa1dc9700a/94_3.ts
+
 
 #EXTINF:0 tvg-logo="https://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="",MULTISHOW
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/86.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:310
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/86/c274ea44c2b08c8e44d7bfc30e6506cb/86_310.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/86/5813358384d6800cd72e6a82c4425b71/86_311.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/86/5c40dbde64b32a1a9fa19bec5bde41f5/86_312.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/86/46e3e78a9d04231806198980abc3a429/86_313.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/86/53236f72ebed41555be14a46fafd0508/86_314.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/86/125621a06d4ee98e81aa293523cd62ed/86_315.ts
+
 
 #EXTINF:0 tvg-logo="https://cdn.vox-cdn.com/thumbor/2Pn8grRKl-GhCy1UNa7Gdhl0k_M=/0x10:1100x743/1200x800/filters:focal(0x10:1100x743)/cdn.vox-cdn.com/assets/2874029/MTV.jpg" group-title="",MTV
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/87.m3u8
@@ -115,7 +162,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/75.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CINEMAX
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/76.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:549
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/a983597e06a13c64a8e2b9f6d55057a6/76_549.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/ffffe6ae8074cab6fa6a85b892e6610d/76_550.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/c3f6af0acf93f00fbd31a84ba7663651/76_551.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/bfd52d87ae0f3d38f00614de89ccf83c/76_552.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/c91a49f0ced53fbec68ffe8888e3b617/76_553.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/76/c9500f544b5b4c65b6616141bdbcd802/76_554.ts
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="",TLC
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/71.m3u8
@@ -148,7 +212,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/63.m3u8
 https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/62/ba05773f8380107e2168c530e7de68c5/62_0.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="",FOX
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/61.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:799
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/61/2e87d46bbbe5d3b8feffa4d4d453a6a4/61_799.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/61/9deae885d8117672afd859ab446e37da/61_800.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/61/88d2c0b59e5b9a12179ef30dbbee58e0/61_801.ts
+#EXTINF:10.010167,
+/hls/Internacional/GanhouKKKK/61/2db6a0458fc3cbb9ddfa24f200a80f97/61_802.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/61/6a0997fb3a746f4e686e4f0474236006/61_803.ts
+#EXTINF:10.010156,
+/hls/Internacional/GanhouKKKK/61/9becd9fe94e70d0c50b536d00338bba5/61_804.ts
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/2000px-Syfy_Universal.svg.png" group-title="",SYFY
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/60.m3u8
@@ -171,7 +252,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/55.m3u8
 
 
 #EXTINF:0 tvg-logo="https://images.impresa.pt/sicnot/2019-02-12-RTX6CO3A.jpg/original/mw-860" group-title="",HBO
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/54.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:257
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:17
+#EXTINF:8.320011,
+/hls/Internacional/GanhouKKKK/54/fb46d8e43a50c44e4618a037907fe0c7/54_257.ts
+#EXTINF:8.360000,
+/hls/Internacional/GanhouKKKK/54/3116a7a0f294d368edf71cf967bd6320/54_258.ts
+#EXTINF:8.320011,
+/hls/Internacional/GanhouKKKK/54/3cc11f9a3088059742ea3e2726289f1e/54_259.ts
+#EXTINF:8.360000,
+/hls/Internacional/GanhouKKKK/54/38801c23097c852272ea2c49516e785b/54_260.ts
+#EXTINF:16.680000,
+/hls/Internacional/GanhouKKKK/54/4917fc3aac5f1c9a968f236b014434fe/54_261.ts
+#EXTINF:8.360000,
+/hls/Internacional/GanhouKKKK/54/2f18e1596f9c19588679229de5256755/54_262.ts
+
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="",TELE_CINE_CULT
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/53.m3u8
@@ -183,7 +281,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/52.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/49.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="",TELECINE_ACTION
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/51.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:644
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010067,
+/hls/Internacional/GanhouKKKK/51/79f7bc8dbe83234682f2dbfdc9bf76ab/51_644.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/51/277357a9c0d68dc803a80e8b87ec1632/51_645.ts
+#EXTINF:10.010067,
+/hls/Internacional/GanhouKKKK/51/418a206ad64ddce32e8be2de089339ef/51_646.ts
+#EXTINF:10.010067,
+/hls/Internacional/GanhouKKKK/51/de0de89e4827dadb0148a67908fb577e/51_647.ts
+#EXTINF:10.010067,
+/hls/Internacional/GanhouKKKK/51/8a27038cd4d34a3b852fa748021ca245/51_648.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/51/f343c12b838f42b7f9bf00b4c1febc3d/51_649.ts
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecine_Fun_2.png/300px-Telecine_Fun_2.png" group-title="",TC_FUN
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/50.m3u8
@@ -239,7 +354,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/129.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/29.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lance.com.br/files/article_main/uploads/2019/02/26/5c75fc0e4a01e.jpeg" group-title="",FOXSPORTS
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/28.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:836
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/51f704c3da6a3c8da8794465f5b78ff8/28_836.ts
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/96dfbcb89a4afd56f95c9ebf4c262c20/28_837.ts
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/e0a91d12104cfecd94c06aa247587813/28_838.ts
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/2445b4cee385b0c7f2f6c9f9ec0c8596/28_839.ts
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/c84cf633761b3bae4edbb0a39e5a0099/28_840.ts
+#EXTINF:9.966667,
+/hls/Internacional/GanhouKKKK/28/62ee18c671a0e14c1bd0a4ba77d0b7fe/28_841.ts
+
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-aiXcm4J-7qM/XG-83zHgSZI/AAAAAAAA1-s/zta_SU5Aa5Q9_F0zVpaxevQ36x6oNqZmQCLcBGAs/s1600/sportv3.jpg" group-title="",SPORTV3
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/27.m3u8
@@ -251,7 +383,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/26.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/25.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/47.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:766
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010133,
+/hls/Internacional/GanhouKKKK/47/6a0796685c9fbe71702e7e08a39d551f/47_766.ts
+#EXTINF:10.010133,
+/hls/Internacional/GanhouKKKK/47/164c39c24ea5dfd2deb4d0e367cdddaf/47_767.ts
+#EXTINF:10.010144,
+/hls/Internacional/GanhouKKKK/47/8122a6c34b2ed7e0f8458c20a9dda14f/47_768.ts
+#EXTINF:10.010133,
+/hls/Internacional/GanhouKKKK/47/8c911edf88c437a17db7d6dda4f656ec/47_769.ts
+#EXTINF:10.010144,
+/hls/Internacional/GanhouKKKK/47/61e020a7c673cecda70ce6417f5ed0fe/47_770.ts
+#EXTINF:10.010144,
+/hls/Internacional/GanhouKKKK/47/7d16f2617bcb4018c02f57c25a9b40c1/47_771.ts
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="",A_E CHANNEL
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/46.m3u8
