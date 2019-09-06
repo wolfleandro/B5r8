@@ -211,20 +211,9 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/63.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="",FOXPREMIUM1
 https://tvweb.xyz:25463/hls/Inter/PerdeuKKK/62/ba05773f8380107e2168c530e7de68c5/62_0.ts
 
-#EXTINF:10.010156 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="",FOX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg" group-title="",FOX
 
-https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/2e87d46bbbe5d3b8feffa4d4d453a6a4/61_799.ts
-
-#EXTINF:10.010156, https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/9deae885d8117672afd859ab446e37da/61_800.ts
-
-#EXTINF:10.010167, https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/88d2c0b59e5b9a12179ef30dbbee58e0/61_801.ts
-
-#EXTINF:10.010167, https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/2db6a0458fc3cbb9ddfa24f200a80f97/61_802.ts
-
-#EXTINF:10.010156, https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/6a0997fb3a746f4e686e4f0474236006/61_803.ts
-
-#EXTINF:10.010156, https://www.assistirtvonlinegratis.com.br/tvonline/fox/hls/Internacional/GanhouKKKK/61/9becd9fe94e70d0c50b536d00338bba5/61_804.ts
-
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/fox_5a5b0f9b_f6d8538b9f200fb9ea310b2648e906b0d50287fc/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/2000px-Syfy_Universal.svg.png" group-title="",SYFY
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/60.m3u8
