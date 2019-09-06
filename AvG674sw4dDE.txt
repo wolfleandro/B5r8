@@ -18,7 +18,24 @@ https://tvweb.xyz:25463/live/Inter/PerdeuKKK/112.m3u8
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/118.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="",BOOMERANG
-https://tvweb.xyz:25463/live/Inter/PerdeuKKK/127.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1969
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/127/0b6ab0ab630ca11990c5b69af673afe0/127_1969.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/127/ca3e595674658c952febe1969f24ab32/127_1970.ts
+#EXTINF:10.010089,
+/hls/Internacional/GanhouKKKK/127/4bce0ccfb3946e8581f274d328b90fbe/127_1971.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/127/895d89d5aa2de80867b08a95f5010252/127_1972.ts
+#EXTINF:10.010056,
+/hls/Internacional/GanhouKKKK/127/317110fb6465e6309970857cc8f48d59/127_1973.ts
+#EXTINF:10.010078,
+/hls/Internacional/GanhouKKKK/127/512b305f2a84f8a9b16a1393cad0fae2/127_1974.ts
+
 
 #EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="",TOONCAST
 https://tvweb.xyz:25463/live/Inter/PerdeuKKK/124.m3u8
